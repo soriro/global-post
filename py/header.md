@@ -1,5 +1,5 @@
 ---
-logo: "Atom Global"
+logo: "Paraguay"
 logo_img: "https://github.com/soriro/global-post/blob/main/images/logo.png?raw=true"
 menus:
   - text: "홈"
