@@ -1,14 +1,3 @@
----
-name: "Set de cuidado iluminador Atomy Hydra"
-image: "https://image.atomy.com/KR/goods/000571/org/107/260326000051107.jpg?w=355&h=355"
-price: "1234567"
-points: "123456"
----
-
-Set de cuidado ilumina
-
-
----
 <div class="dc-Wrap">
     <div class="dc-info-table">
         <style type="text/css">
@@ -493,4 +482,3 @@ Set de cuidado ilumina
         </div>
     </div>
 </div>
----
