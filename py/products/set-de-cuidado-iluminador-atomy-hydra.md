@@ -1,3 +1,13 @@
+---
+name: "Set de cuidado iluminador Atomy Hydra"
+price: "1234567"
+points: "123456"
+---
+
+Set de cuidado ilumina
+
+
+---
 <div class="dc-Wrap">
     <div class="dc-info-table">
         <style type="text/css">
@@ -482,3 +492,4 @@
         </div>
     </div>
 </div>
+---
