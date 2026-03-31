@@ -19,7 +19,7 @@ menus:
     url: "https://www.atomy.kr"
     icon: "🛒"
     target: "_blank"  # 새창 열기
-  - text: "고객센터"
+  - text: "고객센터1"
     url: "/support"
     icon: "🎧"
 ---
