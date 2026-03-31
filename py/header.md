@@ -1,6 +1,6 @@
 ---
 logo: "Atom Global"
-logo_img: "https://raw.githubusercontent.com/.../logo.png"
+logo_img: "https://github.com/soriro/global-post/blob/main/images/logo.png?raw=true"
 menus:
   - text: "홈"
     url: "/"
